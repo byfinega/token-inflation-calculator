@@ -1,4 +1,4 @@
-#author: @mlkplt
+#author: @thefinega
 
 def calculate_annual_inflation(circulating_supply, new_supply_per_unlock, unlock_frequency='quarterly'):
     """
